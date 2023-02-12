@@ -15,6 +15,7 @@
     <memberTool name="mops_donate"/>
     <memberTool name="mops_feedback"/>
     <memberTool name="mops_bake_camera"/>
+    <memberTool name="CameraBake"/>
   </toolshelf>
 
   <tool name="MOPS_convert_point_instances" label="MOPs to Point Instances" icon="opdef:MOPS::Sop/Instancer::1.1?mops_instancing.svg">
